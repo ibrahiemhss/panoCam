@@ -1,6 +1,6 @@
-# CameraXbasic
+# PanoCam
 
-CameraXbasic aims to demonstrate how to use CameraX APIs written in Kotlin.
+PanoCam  use CameraX  and OpenCv APIs written in Kotlin.
 
 ## Build
 
